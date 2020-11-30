@@ -4,4 +4,3 @@ import os
 import logging
 from shutil import copyfile
 
-ddddd
